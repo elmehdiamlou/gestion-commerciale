@@ -8,7 +8,11 @@
 C# is an object-oriented programming language, marketed by Microsoft since 2002 and intended for development on the Microsoft .NET platform.\
 ADO.NET provides a rich set of components for creating distributed, data-sharing applications. It is an integral part of the .NET Framework, providing access to relational, XML, and application data.
 <br><br>
-<p align="center"><img src="https://www.zupimages.net/up/21/25/mb2u.png" width="600"></p>
+<p align="center"><img src="https://zupimages.net/up/21/45/32dw.png" width="450"></p>
+<br>
+<p align="center"><img src="https://zupimages.net/up/21/45/6j7d.png" width="500"></p>
+<br>
+<p align="center"><img src="https://zupimages.net/up/21/45/o3uh.png" width="600"></p>
 
 ### 👍 If you liked this repository
 ### ⭐ Feel free to leave a star 
