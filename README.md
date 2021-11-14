@@ -1,5 +1,5 @@
 # Gestion Commerciale 
-\
+<br>
 <p align="center"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="200"></a></p>
 
 ## 📌 Gestion Commerciale is a desktop application.
