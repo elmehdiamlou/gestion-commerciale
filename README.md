@@ -12,7 +12,7 @@ ADO.NET provides a rich set of components for creating distributed, data-sharing
 <br>
 <p align="center"><img src="https://zupimages.net/up/21/45/6j7d.png" width="500"></p>
 <br>
-<p align="center"><img src="https://zupimages.net/up/21/45/o3uh.png" width="600"></p>
+<p align="center"><img src="https://zupimages.net/up/21/45/o3uh.png" width="700"></p>
 
 ### 👍 If you liked this repository
 ### ⭐ Feel free to leave a star 
